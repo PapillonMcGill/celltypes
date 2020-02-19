@@ -89,7 +89,8 @@
             			"value": "GB"
 		        },
 			"access": {
-				"landingPage": "https://celltypes.brain-map.org/"
+				"landingPage": "https://celltypes.brain-map.org/",
+				"annotation": "public"
 			}
 		}
 	],
