@@ -118,6 +118,18 @@
 					}
 				}
 			],
+			"keywords": [
+				{
+					"value" : "transcriptomics"
+				}
+			],
+			"version": "1.0.0",
+			"description": "Human cortex : middle temporal gyrus",
+			"licenses": [
+				{
+					"name": "BY-NC-SA"
+				}
+			],
 			"storedIn": {
 				"name": "http://celltypes.brain-map.org/api/v2/well_known_file_download/694416044",
 				"description": "Zipped file archive"
@@ -144,6 +156,18 @@
 					"information": {
 						"value": "RNA-Seq read data"
 					}
+				}
+			],
+			"keywords": [
+				{
+					"value" : "transcriptomics"
+				}
+			],
+			"version": "1.0.0",
+			"description": "Human cortex : primary visual cortex",
+			"licenses": [
+				{
+					"name": "BY-NC-SA"
 				}
 			],
 			"storedIn": {
@@ -174,6 +198,18 @@
 					}
 				}
 			],
+			"keywords": [
+				{
+					"value" : "transcriptomics"
+				}
+			],
+			"version": "1.0.0",
+			"description": "Human cortex : anterior cingulate cortex",
+			"licenses": [
+				{
+					"name": "BY-NC-SA"
+				}
+			],
 			"storedIn": {
 				"name": "http://celltypes.brain-map.org/api/v2/well_known_file_download/738609876",
 				"description": "Zipped file archive"
@@ -200,6 +236,18 @@
 					"information": {
 						"value": "RNA-Seq read data"
 					}
+				}
+			],
+			"keywords": [
+				{
+					"value" : "transcriptomics"
+				}
+			],
+			"version": "1.0.0",
+			"description": "Mouse cortex : primary visual cortex",
+			"licenses": [
+				{
+					"name": "BY-NC-SA"
 				}
 			],
 			"storedIn": {
@@ -230,6 +278,18 @@
 					}
 				}
 			],
+			"keywords": [
+				{
+					"value" : "transcriptomics"
+				}
+			],
+			"version": "1.0.0",
+			"description": "Mouse cortex : anterior lateral motor area",
+			"licenses": [
+				{
+					"name": "BY-NC-SA"
+				}
+			],
 			"storedIn": {
 				"name": "http://celltypes.brain-map.org/api/v2/well_known_file_download/694413179",
 				"description": "Zipped file archive"
@@ -256,6 +316,18 @@
 					"information": {
 						"value": "RNA-Seq read data"
 					}
+				}
+			],
+			"keywords": [
+				{
+					"value" : "transcriptomics"
+				}
+			],
+			"version": "1.0.0",
+			"description": "Mouse cortex : anterior cingulate area",
+			"licenses": [
+				{
+					"name": "BY-NC-SA"
 				}
 			],
 			"storedIn": {
@@ -286,6 +358,18 @@
 					}
 				}
 			],
+			"keywords": [
+				{
+					"value" : "transcriptomics"
+				}
+			],
+			"version": "1.0.0",
+			"description": "Mouse cortex : primary motor area (cell data)",
+			"licenses": [
+				{
+					"name": "BY-NC-SA"
+				}
+			],
 			"storedIn": {
 				"name": "http://celltypes.brain-map.org/api/v2/well_known_file_download/738607155",
 				"description": "Zipped file archive"
@@ -312,6 +396,18 @@
 					"information": {
 						"value": "RNA-Seq data"
 					}
+				}
+			],
+			"keywords": [
+				{
+					"value" : "transcriptomics"
+				}
+			],
+			"version": "1.0.0",
+			"description": "Mouse cortex : primary motor area (nuclear data)",
+			"licenses": [
+				{
+					"name": "BY-NC-SA"
 				}
 			],
 			"storedIn": {
@@ -342,6 +438,18 @@
 					}
 				}
 			],
+			"keywords": [
+				{
+					"value" : "transcriptomics"
+				}
+			],
+			"version": "1.0.0",
+			"description": "Human thalamus : lateral geniculate nucleus",
+			"licenses": [
+				{
+					"name": "BY-NC-SA"
+				}
+			],
 			"storedIn": {
 				"name": "http://celltypes.brain-map.org/api/v2/well_known_file_download/694416667",
 				"description": "Zipped file archive"
@@ -368,6 +476,18 @@
 					"information": {
 						"value": "RNA-Seq data"
 					}
+				}
+			],
+			"keywords": [
+				{
+					"value" : "transcriptomics"
+				}
+			],
+			"version": "1.0.0",
+			"description": "Mouse thalamus, dorsolateral geniculate complex",
+			"licenses": [
+				{
+					"name": "BY-NC-SA"
 				}
 			],
 			"storedIn": {
@@ -398,6 +518,18 @@
 					}
 				}
 			],
+			"keywords": [
+				{
+					"value" : "transcriptomics"
+				}
+			],
+			"version": "1.0.0",
+			"description": "Macaque thalamus : lateral geniculate nucleus",
+			"licenses": [
+				{
+					"name": "BY-NC-SA"
+				}
+			],
 			"storedIn": {
 				"name": "http://celltypes.brain-map.org/api/v2/well_known_file_download/694417889",
 				"description": "Zipped file archive"
@@ -424,6 +556,18 @@
 					"information": {
 						"value": "RNA-Seq data"
 					}
+				}
+			],
+			"keywords": [
+				{
+					"value" : "transcriptomics"
+				}
+			],
+			"version": "1.0.0",
+			"description": "Human middle temporal gyrus control set",
+			"licenses": [
+				{
+					"name": "BY-NC-SA"
 				}
 			],
 			"storedIn": {
@@ -454,6 +598,18 @@
 					}
 				}
 			],
+			"keywords": [
+				{
+					"value" : "transcriptomics"
+				}
+			],
+			"version": "1.0.0",
+			"description": "Human primary visual cortex, anterior cingulate cortex control set",
+			"licenses": [
+				{
+					"name": "BY-NC-SA"
+				}
+			],
 			"storedIn": {
 				"name": "http://celltypes.brain-map.org/api/v2/well_known_file_download/738609611",
 				"description": "Zipped file archive"
@@ -480,6 +636,18 @@
 					"information": {
 						"value": "RNA-Seq read data"
 					}
+				}
+			],
+			"keywords": [
+				{
+					"value" : "transcriptomics"
+				}
+			],
+			"version": "1.0.0",
+			"description": "Mouse primary visual cortex, anterior lateral motor area control set",
+			"licenses": [
+				{
+					"name": "BY-NC-SA"
 				}
 			],
 			"storedIn": {
@@ -510,6 +678,18 @@
 					}
 				}
 			],
+			"keywords": [
+				{
+					"value" : "transcriptomics"
+				}
+			],
+			"version": "1.0.0",
+			"description": "Mouse anterior cingulate area, primary motor area (cells aand nuclei) control set",
+			"licenses": [
+				{
+					"name": "BY-NC-SA"
+				}
+			],
 			"storedIn": {
 				"name": "http://celltypes.brain-map.org/api/v2/well_known_file_download/738604912",
 				"description": "Zipped file archive"
@@ -536,6 +716,18 @@
 					"information": {
 						"value": "RNA-Seq read data"
 					}
+				}
+			],
+			"keywords": [
+				{
+					"value" : "transcriptomics"
+				}
+			],
+			"version": "1.0.0",
+			"description": "Human cortex : middle temproal gyrus (previously published 2017 data)",
+			"licenses": [
+				{
+					"name": "BY-NC-SA"
 				}
 			],
 			"storedIn": {
@@ -566,6 +758,18 @@
 					}
 				}
 			],
+			"keywords": [
+				{
+					"value" : "transcriptomics"
+				}
+			],
+			"version": "1.0.0",
+			"description": "Human cortex : primary visual cortex (previously published 2017 data)",
+			"licenses": [
+				{
+					"name": "BY-NC-SA"
+				}
+			],
 			"storedIn": {
 				"name": "http://celltypes.brain-map.org/api/v2/well_known_file_download/545746562",
 				"description": "Zipped file archive"
@@ -592,6 +796,18 @@
 					"information": {
 						"value": "List of links to count. FPKM and TPM data for each sample"
 					}
+				}
+			],
+			"keywords": [
+				{
+					"value" : "transcriptomics"
+				}
+			],
+			"version": "1.0.0",
+			"description": "Mouse cortex : primary visual cortex (previously published 2017 data)",
+			"licenses": [
+				{
+					"name": "BY-NC-SA"
 				}
 			],
 			"storedIn": {
@@ -623,6 +839,18 @@
 					}
 				}
 			],
+			"keywords": [
+				{
+					"value" : "transcriptomics"
+				}
+			],
+			"version": "1.0.0",
+			"description": "Mouse cortex : anterior lateral motor area (previously published 2017 data)",
+			"licenses": [
+				{
+					"name": "BY-NC-SA"
+				}
+			],
 			"storedIn": {
 				"name": "http://celltypes.brain-map.org/api/v2/well_known_file_download/545746540",
 				"description": "Zipped file archive"
@@ -649,6 +877,18 @@
 					"information": {
 						"value": "List of links to count. FPKM and TPM data for each sample"
 					}
+				}
+			],
+			"keywords": [
+				{
+					"value" : "transcriptomics"
+				}
+			],
+			"version": "1.0.0",
+			"description": "Mouse cortex : anterior lateral motor area (previously published 2017 data)",
+			"licenses": [
+				{
+					"name": "BY-NC-SA"
 				}
 			],
 			"storedIn": {
@@ -679,6 +919,18 @@
 					}
 				}
 			],
+			"keywords": [
+				{
+					"value" : "transcriptomics"
+				}
+			],
+			"version": "1.0.0",
+			"description": "Mouse thalamus, dorsolateral geniculate complex (previously published 2017 data)",
+			"licenses": [
+				{
+					"name": "BY-NC-SA"
+				}
+			],
 			"storedIn": {
 				"name": "http://celltypes.brain-map.org/api/v2/well_known_file_download/502999251",
 				"description": "Zipped file archive"
@@ -705,6 +957,18 @@
 					"information": {
 						"value": "GTF file"
 					}
+				}
+			],
+			"keywords": [
+				{
+					"value" : "transcriptomics"
+				}
+			],
+			"version": "1.0.0",
+			"description": "Human genome annotations reference",
+			"licenses": [
+				{
+					"name": "BY-NC-SA"
 				}
 			],
 			"storedIn": {
@@ -735,6 +999,18 @@
 					}
 				}
 			],
+			"keywords": [
+				{
+					"value" : "transcriptomics"
+				}
+			],
+			"version": "1.0.0",
+			"description": "Mouse genome annotations reference",
+			"licenses": [
+				{
+					"name": "BY-NC-SA"
+				}
+			],
 			"storedIn": {
 				"name": "http://celltypes.brain-map.org/api/v2/well_known_file_download/502999254",
 				"description": "Zipped GTF file of mouse genome annotations"
@@ -763,6 +1039,18 @@
 					}
 				}
 			],
+			"keywords": [
+				{
+					"value" : "transcriptomics"
+				}
+			],
+			"version": "1.0.0",
+			"description": "Macaque genome annotations reference",
+			"licenses": [
+				{
+					"name": "BY-NC-SA"
+				}
+			],
 			"storedIn": {
 				"name": "http://celltypes.brain-map.org/api/v2/well_known_file_download/694417889",
 				"description": "Zipped GTF file of macaque genome annotations"
@@ -789,6 +1077,18 @@
 					"information": {
 						"value": "PDF file"
 					}
+				}
+			],
+			"keywords": [
+				{
+					"value" : "transcriptomics"
+				}
+			],
+			"version": "1.0.0",
+			"description": "Cell type and transcriptomics overview",
+			"licenses": [
+				{
+					"name": "BY-NC-SA"
 				}
 			],
 			"storedIn": {
