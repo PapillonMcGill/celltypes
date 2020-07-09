@@ -123,6 +123,25 @@
 					"value" : "transcriptomics"
 				}
 			],
+			"distributions": [
+	    	    {
+					"formats": [
+						"RNA-Seq"
+            		],
+					"size" : 301,
+		        	"unit" : {
+            			"value": "MB"
+		        	},
+					"access": {
+						"landingPage": "https://celltypes.brain-map.org/",
+						"authorizations": [
+							{
+								"value": "public"
+							}
+						]
+					}
+				}
+			],
 			"version": "1.0.0",
 			"description": "Human cortex : middle temporal gyrus",
 			"licenses": [
@@ -161,6 +180,25 @@
 			"keywords": [
 				{
 					"value" : "transcriptomics"
+				}
+			],
+			"distributions": [
+	    	    {
+					"formats": [
+						"RNA-Seq"
+            		],
+					"size" : 139,
+		        	"unit" : {
+            			"value": "MB"
+		        	},
+					"access": {
+						"landingPage": "https://celltypes.brain-map.org/",
+						"authorizations": [
+							{
+								"value": "public"
+							}
+						]
+					}
 				}
 			],
 			"version": "1.0.0",
@@ -203,6 +241,25 @@
 					"value" : "transcriptomics"
 				}
 			],
+			"distributions": [
+	    	    {
+					"formats": [
+						"RNA-Seq"
+            		],
+					"size" : 122,
+		        	"unit" : {
+            			"value": "MB"
+		        	},
+					"access": {
+						"landingPage": "https://celltypes.brain-map.org/",
+						"authorizations": [
+							{
+								"value": "public"
+							}
+						]
+					}
+				}
+			],
 			"version": "1.0.0",
 			"description": "Human cortex : anterior cingulate cortex",
 			"licenses": [
@@ -241,6 +298,25 @@
 			"keywords": [
 				{
 					"value" : "transcriptomics"
+				}
+			],
+			"distributions": [
+	    	    {
+					"formats": [
+						"RNA-Seq"
+            		],
+					"size" : 299,
+		        	"unit" : {
+            			"value": "MB"
+		        	},
+					"access": {
+						"landingPage": "https://celltypes.brain-map.org/",
+						"authorizations": [
+							{
+								"value": "public"
+							}
+						]
+					}
 				}
 			],
 			"version": "1.0.0",
@@ -283,6 +359,25 @@
 					"value" : "transcriptomics"
 				}
 			],
+			"distributions": [
+	    	    {
+					"formats": [
+						"RNA-Seq"
+            		],
+					"size" : 209,
+		        	"unit" : {
+            			"value": "MB"
+		        	},
+					"access": {
+						"landingPage": "https://celltypes.brain-map.org/",
+						"authorizations": [
+							{
+								"value": "public"
+							}
+						]
+					}
+				}
+			],
 			"version": "1.0.0",
 			"description": "Mouse cortex : anterior lateral motor area",
 			"licenses": [
@@ -321,6 +416,25 @@
 			"keywords": [
 				{
 					"value" : "transcriptomics"
+				}
+			],
+			"distributions": [
+	    	    {
+					"formats": [
+						"RNA-Seq"
+            		],
+					"size" : 81.8,
+		        	"unit" : {
+            			"value": "MB"
+		        	},
+					"access": {
+						"landingPage": "https://celltypes.brain-map.org/",
+						"authorizations": [
+							{
+								"value": "public"
+							}
+						]
+					}
 				}
 			],
 			"version": "1.0.0",
@@ -363,6 +477,25 @@
 					"value" : "transcriptomics"
 				}
 			],
+			"distributions": [
+	    	    {
+					"formats": [
+						"RNA-Seq"
+            		],
+					"size" : 103,
+		        	"unit" : {
+            			"value": "MB"
+		        	},
+					"access": {
+						"landingPage": "https://celltypes.brain-map.org/",
+						"authorizations": [
+							{
+								"value": "public"
+							}
+						]
+					}
+				}
+			],
 			"version": "1.0.0",
 			"description": "Mouse cortex : primary motor area (cell data)",
 			"licenses": [
@@ -401,6 +534,25 @@
 			"keywords": [
 				{
 					"value" : "transcriptomics"
+				}
+			],
+			"distributions": [
+	    	    {
+					"formats": [
+						"RNA-Seq"
+            		],
+					"size" : 91.2,
+		        	"unit" : {
+            			"value": "MB"
+		        	},
+					"access": {
+						"landingPage": "https://celltypes.brain-map.org/",
+						"authorizations": [
+							{
+								"value": "public"
+							}
+						]
+					}
 				}
 			],
 			"version": "1.0.0",
@@ -443,6 +595,25 @@
 					"value" : "transcriptomics"
 				}
 			],
+			"distributions": [
+	    	    {
+					"formats": [
+						"RNA-Seq"
+            		],
+					"size" : 34.7,
+		        	"unit" : {
+            			"value": "MB"
+		        	},
+					"access": {
+						"landingPage": "https://celltypes.brain-map.org/",
+						"authorizations": [
+							{
+								"value": "public"
+							}
+						]
+					}
+				}
+			],
 			"version": "1.0.0",
 			"description": "Human thalamus : lateral geniculate nucleus",
 			"licenses": [
@@ -481,6 +652,25 @@
 			"keywords": [
 				{
 					"value" : "transcriptomics"
+				}
+			],
+			"distributions": [
+	    	    {
+					"formats": [
+						"RNA-Seq"
+            		],
+					"size" : 44.8,
+		        	"unit" : {
+            			"value": "MB"
+		        	},
+					"access": {
+						"landingPage": "https://celltypes.brain-map.org/",
+						"authorizations": [
+							{
+								"value": "public"
+							}
+						]
+					}
 				}
 			],
 			"version": "1.0.0",
@@ -523,6 +713,25 @@
 					"value" : "transcriptomics"
 				}
 			],
+			"distributions": [
+	    	    {
+					"formats": [
+						"RNA-Seq"
+            		],
+					"size" : 18.2,
+		        	"unit" : {
+            			"value": "MB"
+		        	},
+					"access": {
+						"landingPage": "https://celltypes.brain-map.org/",
+						"authorizations": [
+							{
+								"value": "public"
+							}
+						]
+					}
+				}
+			],
 			"version": "1.0.0",
 			"description": "Macaque thalamus : lateral geniculate nucleus",
 			"licenses": [
@@ -561,6 +770,25 @@
 			"keywords": [
 				{
 					"value" : "transcriptomics"
+				}
+			],
+			"distributions": [
+	    	    {
+					"formats": [
+						"RNA-Seq"
+            		],
+					"size" : 16.0,
+		        	"unit" : {
+            			"value": "MB"
+		        	},
+					"access": {
+						"landingPage": "https://celltypes.brain-map.org/",
+						"authorizations": [
+							{
+								"value": "public"
+							}
+						]
+					}
 				}
 			],
 			"version": "1.0.0",
@@ -603,6 +831,25 @@
 					"value" : "transcriptomics"
 				}
 			],
+			"distributions": [
+	    	    {
+					"formats": [
+						"RNA-Seq"
+            		],
+					"size" : 10.8,
+		        	"unit" : {
+            			"value": "MB"
+		        	},
+					"access": {
+						"landingPage": "https://celltypes.brain-map.org/",
+						"authorizations": [
+							{
+								"value": "public"
+							}
+						]
+					}
+				}
+			],
 			"version": "1.0.0",
 			"description": "Human primary visual cortex, anterior cingulate cortex control set",
 			"licenses": [
@@ -641,6 +888,25 @@
 			"keywords": [
 				{
 					"value" : "transcriptomics"
+				}
+			],
+			"distributions": [
+	    	    {
+					"formats": [
+						"RNA-Seq"
+            		],
+					"size" : 34.0,
+		        	"unit" : {
+            			"value": "MB"
+		        	},
+					"access": {
+						"landingPage": "https://celltypes.brain-map.org/",
+						"authorizations": [
+							{
+								"value": "public"
+							}
+						]
+					}
 				}
 			],
 			"version": "1.0.0",
@@ -683,8 +949,27 @@
 					"value" : "transcriptomics"
 				}
 			],
+			"distributions": [
+	    	    {
+					"formats": [
+						"RNA-Seq"
+            		],
+					"size" : 47.4,
+		        	"unit" : {
+            			"value": "MB"
+		        	},
+					"access": {
+						"landingPage": "https://celltypes.brain-map.org/",
+						"authorizations": [
+							{
+								"value": "public"
+							}
+						]
+					}
+				}
+			],
 			"version": "1.0.0",
-			"description": "Mouse anterior cingulate area, primary motor area (cells aand nuclei) control set",
+			"description": "Mouse anterior cingulate area, primary motor area (cells and nuclei) control set",
 			"licenses": [
 				{
 					"name": "BY-NC-SA"
@@ -721,6 +1006,25 @@
 			"keywords": [
 				{
 					"value" : "transcriptomics"
+				}
+			],
+			"distributions": [
+	    	    {
+					"formats": [
+						"RNA-Seq"
+            		],
+					"size" : 386,
+		        	"unit" : {
+            			"value": "MB"
+		        	},
+					"access": {
+						"landingPage": "https://celltypes.brain-map.org/",
+						"authorizations": [
+							{
+								"value": "public"
+							}
+						]
+					}
 				}
 			],
 			"version": "1.0.0",
@@ -763,6 +1067,25 @@
 					"value" : "transcriptomics"
 				}
 			],
+			"distributions": [
+	    	    {
+					"formats": [
+						"RNA-Seq"
+            		],
+					"size" : 301,
+		        	"unit" : {
+            			"value": "MB"
+		        	},
+					"access": {
+						"landingPage": "https://celltypes.brain-map.org/",
+						"authorizations": [
+							{
+								"value": "public"
+							}
+						]
+					}
+				}
+			],
 			"version": "1.0.0",
 			"description": "Human cortex : primary visual cortex (previously published 2017 data)",
 			"licenses": [
@@ -801,6 +1124,26 @@
 			"keywords": [
 				{
 					"value" : "transcriptomics"
+				}
+			],
+			"distributions": [
+	    	    {
+					"formats": [
+						"RNA-Seq",
+						".csv"
+            		],
+					"size" : 200,
+		        	"unit" : {
+            			"value": "MB"
+		        	},
+					"access": {
+						"landingPage": "https://celltypes.brain-map.org/",
+						"authorizations": [
+							{
+								"value": "public"
+							}
+						]
+					}
 				}
 			],
 			"version": "1.0.0",
@@ -844,6 +1187,25 @@
 					"value" : "transcriptomics"
 				}
 			],
+			"distributions": [
+	    	    {
+					"formats": [
+						"RNA-Seq"
+            		],
+					"size" : 147,
+		        	"unit" : {
+            			"value": "MB"
+		        	},
+					"access": {
+						"landingPage": "https://celltypes.brain-map.org/",
+						"authorizations": [
+							{
+								"value": "public"
+							}
+						]
+					}
+				}
+			],
 			"version": "1.0.0",
 			"description": "Mouse cortex : anterior lateral motor area (previously published 2017 data)",
 			"licenses": [
@@ -882,6 +1244,25 @@
 			"keywords": [
 				{
 					"value" : "transcriptomics"
+				}
+			],
+			"distributions": [
+	    	    {
+					"formats": [
+						".csv"
+            		],
+					"size" : 2.32,
+		        	"unit" : {
+            			"value": "MB"
+		        	},
+					"access": {
+						"landingPage": "https://celltypes.brain-map.org/",
+						"authorizations": [
+							{
+								"value": "public"
+							}
+						]
+					}
 				}
 			],
 			"version": "1.0.0",
@@ -924,6 +1305,25 @@
 					"value" : "transcriptomics"
 				}
 			],
+			"distributions": [
+	    	    {
+					"formats": [
+						"RNA-Seq"
+            		],
+					"size" : 47.2,
+		        	"unit" : {
+            			"value": "MB"
+		        	},
+					"access": {
+						"landingPage": "https://celltypes.brain-map.org/",
+						"authorizations": [
+							{
+								"value": "public"
+							}
+						]
+					}
+				}
+			],
 			"version": "1.0.0",
 			"description": "Mouse thalamus, dorsolateral geniculate complex (previously published 2017 data)",
 			"licenses": [
@@ -962,6 +1362,25 @@
 			"keywords": [
 				{
 					"value" : "transcriptomics"
+				}
+			],
+			"distributions": [
+	    	    {
+					"formats": [
+						"GTF"
+            		],
+					"size" : 10.0,
+		        	"unit" : {
+            			"value": "MB"
+		        	},
+					"access": {
+						"landingPage": "https://celltypes.brain-map.org/",
+						"authorizations": [
+							{
+								"value": "public"
+							}
+						]
+					}
 				}
 			],
 			"version": "1.0.0",
@@ -1004,6 +1423,25 @@
 					"value" : "transcriptomics"
 				}
 			],
+			"distributions": [
+	    	    {
+					"formats": [
+						"GTF"
+            		],
+					"size" : 7.94,
+		        	"unit" : {
+            			"value": "MB"
+		        	},
+					"access": {
+						"landingPage": "https://celltypes.brain-map.org/",
+						"authorizations": [
+							{
+								"value": "public"
+							}
+						]
+					}
+				}
+			],
 			"version": "1.0.0",
 			"description": "Mouse genome annotations reference",
 			"licenses": [
@@ -1044,6 +1482,25 @@
 					"value" : "transcriptomics"
 				}
 			],
+			"distributions": [
+	    	    {
+					"formats": [
+						"RNA-Seq"
+            		],
+					"size" : 4.60,
+		        	"unit" : {
+            			"value": "MB"
+		        	},
+					"access": {
+						"landingPage": "https://celltypes.brain-map.org/",
+						"authorizations": [
+							{
+								"value": "public"
+							}
+						]
+					}
+				}
+			],
 			"version": "1.0.0",
 			"description": "Macaque genome annotations reference",
 			"licenses": [
@@ -1082,6 +1539,25 @@
 			"keywords": [
 				{
 					"value" : "transcriptomics"
+				}
+			],
+			"distributions": [
+	    	    {
+					"formats": [
+						"PDF"
+            		],
+					"size" : 829,
+		        	"unit" : {
+            			"value": "KB"
+		        	},
+					"access": {
+						"landingPage": "https://celltypes.brain-map.org/",
+						"authorizations": [
+							{
+								"value": "public"
+							}
+						]
+					}
 				}
 			],
 			"version": "1.0.0",
