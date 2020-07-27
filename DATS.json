@@ -153,6 +153,32 @@
 				"name": "http://celltypes.brain-map.org/api/v2/well_known_file_download/694416044",
 				"description": "Zipped file archive"
 			},
+			"extraProperties": [
+				{
+					"category": "CONP_status",
+					"values": [
+						{
+							"value": "external"
+						}
+					]
+				},
+				{
+					"category": "files",
+					"values": [
+						{
+							"value": "29"
+						}
+					]
+				},
+				{
+					"category": "subjects",
+					"values": [
+						{
+							"value": "48"
+						}
+					]
+				}
+			],
 			"isAbout": [
 				{
 					"identifier": {
@@ -212,6 +238,32 @@
 				"name": "http://celltypes.brain-map.org/api/v2/well_known_file_download/738610707",
 				"description": "Zipped file archive"
 			},
+			"extraProperties": [
+				{
+					"category": "CONP_status",
+					"values": [
+						{
+							"value": "external"
+						}
+					]
+				},
+				{
+					"category": "files",
+					"values": [
+						{
+							"value": "29"
+						}
+					]
+				},
+				{
+					"category": "subjects",
+					"values": [
+						{
+							"value": "48"
+						}
+					]
+				}
+			],
 			"isAbout": [
 				{
 					"identifier": {
@@ -271,6 +323,32 @@
 				"name": "http://celltypes.brain-map.org/api/v2/well_known_file_download/738609876",
 				"description": "Zipped file archive"
 			},
+			"extraProperties": [
+				{
+					"category": "CONP_status",
+					"values": [
+						{
+							"value": "external"
+						}
+					]
+				},
+				{
+					"category": "files",
+					"values": [
+						{
+							"value": "29"
+						}
+					]
+				},
+				{
+					"category": "subjects",
+					"values": [
+						{
+							"value": "48"
+						}
+					]
+				}
+			],
 			"isAbout": [
 				{
 					"identifier": {
@@ -330,6 +408,32 @@
 				"name": "http://celltypes.brain-map.org/api/v2/well_known_file_download/694413985",
 				"description": "Zipped file archive"
 			},
+			"extraProperties": [
+				{
+					"category": "CONP_status",
+					"values": [
+						{
+							"value": "external"
+						}
+					]
+				},
+				{
+					"category": "files",
+					"values": [
+						{
+							"value": "29"
+						}
+					]
+				},
+				{
+					"category": "subjects",
+					"values": [
+						{
+							"value": "48"
+						}
+					]
+				}
+			],
 			"isAbout": [
 				{
 					"identifier": {
@@ -389,6 +493,32 @@
 				"name": "http://celltypes.brain-map.org/api/v2/well_known_file_download/694413179",
 				"description": "Zipped file archive"
 			},
+			"extraProperties": [
+				{
+					"category": "CONP_status",
+					"values": [
+						{
+							"value": "external"
+						}
+					]
+				},
+				{
+					"category": "files",
+					"values": [
+						{
+							"value": "29"
+						}
+					]
+				},
+				{
+					"category": "subjects",
+					"values": [
+						{
+							"value": "48"
+						}
+					]
+				}
+			],
 			"isAbout": [
 				{
 					"identifier": {
@@ -448,6 +578,32 @@
 				"name": "http://celltypes.brain-map.org/api/v2/well_known_file_download/738606142",
 				"description": "Zipped file archive"
 			},
+			"extraProperties": [
+				{
+					"category": "CONP_status",
+					"values": [
+						{
+							"value": "external"
+						}
+					]
+				},
+				{
+					"category": "files",
+					"values": [
+						{
+							"value": "29"
+						}
+					]
+				},
+				{
+					"category": "subjects",
+					"values": [
+						{
+							"value": "48"
+						}
+					]
+				}
+			],
 			"isAbout": [
 				{
 					"identifier": {
@@ -507,6 +663,32 @@
 				"name": "http://celltypes.brain-map.org/api/v2/well_known_file_download/738607155",
 				"description": "Zipped file archive"
 			},
+			"extraProperties": [
+				{
+					"category": "CONP_status",
+					"values": [
+						{
+							"value": "external"
+						}
+					]
+				},
+				{
+					"category": "files",
+					"values": [
+						{
+							"value": "29"
+						}
+					]
+				},
+				{
+					"category": "subjects",
+					"values": [
+						{
+							"value": "48"
+						}
+					]
+				}
+			],
 			"isAbout": [
 				{
 					"identifier": {
@@ -566,6 +748,32 @@
 				"name": "http://celltypes.brain-map.org/api/v2/well_known_file_download/738608585",
 				"description": "Zipped file archive"
 			},
+			"extraProperties": [
+				{
+					"category": "CONP_status",
+					"values": [
+						{
+							"value": "external"
+						}
+					]
+				},
+				{
+					"category": "files",
+					"values": [
+						{
+							"value": "29"
+						}
+					]
+				},
+				{
+					"category": "subjects",
+					"values": [
+						{
+							"value": "48"
+						}
+					]
+				}
+			],
 			"isAbout": [
 				{
 					"identifier": {
@@ -625,6 +833,32 @@
 				"name": "http://celltypes.brain-map.org/api/v2/well_known_file_download/694416667",
 				"description": "Zipped file archive"
 			},
+			"extraProperties": [
+				{
+					"category": "CONP_status",
+					"values": [
+						{
+							"value": "external"
+						}
+					]
+				},
+				{
+					"category": "files",
+					"values": [
+						{
+							"value": "29"
+						}
+					]
+				},
+				{
+					"category": "subjects",
+					"values": [
+						{
+							"value": "48"
+						}
+					]
+				}
+			],
 			"isAbout": [
 				{
 					"identifier": {
@@ -684,6 +918,32 @@
 				"name": "http://download.alleninstitute.org/informatics-archive/current-release/rna_seq/mouse_LGd_gene_expression_matrices_2018-06-14.zip",
 				"description": "Zipped file archive"
 			},
+			"extraProperties": [
+				{
+					"category": "CONP_status",
+					"values": [
+						{
+							"value": "external"
+						}
+					]
+				},
+				{
+					"category": "files",
+					"values": [
+						{
+							"value": "29"
+						}
+					]
+				},
+				{
+					"category": "subjects",
+					"values": [
+						{
+							"value": "48"
+						}
+					]
+				}
+			],
 			"isAbout": [
 				{
 					"identifier": {
@@ -743,6 +1003,32 @@
 				"name": "http://celltypes.brain-map.org/api/v2/well_known_file_download/694417889",
 				"description": "Zipped file archive"
 			},
+			"extraProperties": [
+				{
+					"category": "CONP_status",
+					"values": [
+						{
+							"value": "external"
+						}
+					]
+				},
+				{
+					"category": "files",
+					"values": [
+						{
+							"value": "29"
+						}
+					]
+				},
+				{
+					"category": "subjects",
+					"values": [
+						{
+							"value": "48"
+						}
+					]
+				}
+			],
 			"isAbout": [
 				{
 					"identifier": {
@@ -802,6 +1088,32 @@
 				"name": "http://celltypes.brain-map.org/api/v2/well_known_file_download/694417624",
 				"description": "Zipped file archive"
 			},
+			"extraProperties": [
+				{
+					"category": "CONP_status",
+					"values": [
+						{
+							"value": "external"
+						}
+					]
+				},
+				{
+					"category": "files",
+					"values": [
+						{
+							"value": "29"
+						}
+					]
+				},
+				{
+					"category": "subjects",
+					"values": [
+						{
+							"value": "48"
+						}
+					]
+				}
+			],
 			"isAbout": [
 				{
 					"identifier": {
@@ -861,6 +1173,32 @@
 				"name": "http://celltypes.brain-map.org/api/v2/well_known_file_download/738609611",
 				"description": "Zipped file archive"
 			},
+			"extraProperties": [
+				{
+					"category": "CONP_status",
+					"values": [
+						{
+							"value": "external"
+						}
+					]
+				},
+				{
+					"category": "files",
+					"values": [
+						{
+							"value": "29"
+						}
+					]
+				},
+				{
+					"category": "subjects",
+					"values": [
+						{
+							"value": "48"
+						}
+					]
+				}
+			],
 			"isAbout": [
 				{
 					"identifier": {
@@ -920,6 +1258,32 @@
 				"name": "http://celltypes.brain-map.org/api/v2/well_known_file_download/694414216",
 				"description": "Zipped file archive"
 			},
+			"extraProperties": [
+				{
+					"category": "CONP_status",
+					"values": [
+						{
+							"value": "external"
+						}
+					]
+				},
+				{
+					"category": "files",
+					"values": [
+						{
+							"value": "29"
+						}
+					]
+				},
+				{
+					"category": "subjects",
+					"values": [
+						{
+							"value": "48"
+						}
+					]
+				}
+			],
 			"isAbout": [
 				{
 					"identifier": {
@@ -979,6 +1343,32 @@
 				"name": "http://celltypes.brain-map.org/api/v2/well_known_file_download/738604912",
 				"description": "Zipped file archive"
 			},
+			"extraProperties": [
+				{
+					"category": "CONP_status",
+					"values": [
+						{
+							"value": "external"
+						}
+					]
+				},
+				{
+					"category": "files",
+					"values": [
+						{
+							"value": "29"
+						}
+					]
+				},
+				{
+					"category": "subjects",
+					"values": [
+						{
+							"value": "48"
+						}
+					]
+				}
+			],
 			"isAbout": [
 				{
 					"identifier": {
@@ -1038,6 +1428,32 @@
 				"name": "http://celltypes.brain-map.org/api/v2/well_known_file_download/623325693",
 				"description": "Zipped file archive"
 			},
+			"extraProperties": [
+				{
+					"category": "CONP_status",
+					"values": [
+						{
+							"value": "external"
+						}
+					]
+				},
+				{
+					"category": "files",
+					"values": [
+						{
+							"value": "29"
+						}
+					]
+				},
+				{
+					"category": "subjects",
+					"values": [
+						{
+							"value": "48"
+						}
+					]
+				}
+			],
 			"isAbout": [
 				{
 					"identifier": {
@@ -1097,6 +1513,32 @@
 				"name": "http://celltypes.brain-map.org/api/v2/well_known_file_download/545746562",
 				"description": "Zipped file archive"
 			},
+			"extraProperties": [
+				{
+					"category": "CONP_status",
+					"values": [
+						{
+							"value": "external"
+						}
+					]
+				},
+				{
+					"category": "files",
+					"values": [
+						{
+							"value": "29"
+						}
+					]
+				},
+				{
+					"category": "subjects",
+					"values": [
+						{
+							"value": "48"
+						}
+					]
+				}
+			],
 			"isAbout": [
 				{
 					"identifier": {
@@ -1157,6 +1599,32 @@
 				"name": "http://celltypes.brain-map.org/api/v2/well_known_file_download/545746648",
 				"description": "Zipped file archive"
 			},
+			"extraProperties": [
+				{
+					"category": "CONP_status",
+					"values": [
+						{
+							"value": "external"
+						}
+					]
+				},
+				{
+					"category": "files",
+					"values": [
+						{
+							"value": "29"
+						}
+					]
+				},
+				{
+					"category": "subjects",
+					"values": [
+						{
+							"value": "48"
+						}
+					]
+				}
+			],
 			"isAbout": [
 				{
 					"identifier": {
@@ -1217,6 +1685,32 @@
 				"name": "http://celltypes.brain-map.org/api/v2/well_known_file_download/545746540",
 				"description": "Zipped file archive"
 			},
+			"extraProperties": [
+				{
+					"category": "CONP_status",
+					"values": [
+						{
+							"value": "external"
+						}
+					]
+				},
+				{
+					"category": "files",
+					"values": [
+						{
+							"value": "29"
+						}
+					]
+				},
+				{
+					"category": "subjects",
+					"values": [
+						{
+							"value": "48"
+						}
+					]
+				}
+			],
 			"isAbout": [
 				{
 					"identifier": {
@@ -1276,6 +1770,32 @@
 				"name": "http://celltypes.brain-map.org/api/v2/well_known_file_download/545746584",
 				"description": "Zipped file archive"
 			},
+			"extraProperties": [
+				{
+					"category": "CONP_status",
+					"values": [
+						{
+							"value": "external"
+						}
+					]
+				},
+				{
+					"category": "files",
+					"values": [
+						{
+							"value": "29"
+						}
+					]
+				},
+				{
+					"category": "subjects",
+					"values": [
+						{
+							"value": "48"
+						}
+					]
+				}
+			],
 			"isAbout": [
 				{
 					"identifier": {
@@ -1335,6 +1855,32 @@
 				"name": "http://celltypes.brain-map.org/api/v2/well_known_file_download/502999251",
 				"description": "Zipped file archive"
 			},
+			"extraProperties": [
+				{
+					"category": "CONP_status",
+					"values": [
+						{
+							"value": "external"
+						}
+					]
+				},
+				{
+					"category": "files",
+					"values": [
+						{
+							"value": "29"
+						}
+					]
+				},
+				{
+					"category": "subjects",
+					"values": [
+						{
+							"value": "48"
+						}
+					]
+				}
+			],
 			"isAbout": [
 				{
 					"identifier": {
@@ -1394,6 +1940,32 @@
 				"name": "http://celltypes.brain-map.org/api/v2/well_known_file_download/502175284",
 				"description": "Zipped GTF file of human genome annotations"
 			},
+			"extraProperties": [
+				{
+					"category": "CONP_status",
+					"values": [
+						{
+							"value": "external"
+						}
+					]
+				},
+				{
+					"category": "files",
+					"values": [
+						{
+							"value": "29"
+						}
+					]
+				},
+				{
+					"category": "subjects",
+					"values": [
+						{
+							"value": "48"
+						}
+					]
+				}
+			],
 			"isAbout": [
 				{
 					"identifier": {
@@ -1453,6 +2025,32 @@
 				"name": "http://celltypes.brain-map.org/api/v2/well_known_file_download/502999254",
 				"description": "Zipped GTF file of mouse genome annotations"
 			},
+			"extraProperties": [
+				{
+					"category": "CONP_status",
+					"values": [
+						{
+							"value": "external"
+						}
+					]
+				},
+				{
+					"category": "files",
+					"values": [
+						{
+							"value": "29"
+						}
+					]
+				},
+				{
+					"category": "subjects",
+					"values": [
+						{
+							"value": "48"
+						}
+					]
+				}
+			],
 			"isAbout": [
 				{
 					"identifier": {
@@ -1512,6 +2110,32 @@
 				"name": "http://celltypes.brain-map.org/api/v2/well_known_file_download/694417889",
 				"description": "Zipped GTF file of macaque genome annotations"
 			},
+			"extraProperties": [
+				{
+					"category": "CONP_status",
+					"values": [
+						{
+							"value": "external"
+						}
+					]
+				},
+				{
+					"category": "files",
+					"values": [
+						{
+							"value": "29"
+						}
+					]
+				},
+				{
+					"category": "subjects",
+					"values": [
+						{
+							"value": "48"
+						}
+					]
+				}
+			],
 			"isAbout": [
 				{
 					"identifier": {
@@ -1571,6 +2195,32 @@
 				"name": "http://help.brain-map.org/download/attachments/8323525/CellTypes_Transcriptomics_Overview.pdf",
 				"description": "Cell type and transcriptomics overview PDF document"
 			},
+			"extraProperties": [
+				{
+					"category": "CONP_status",
+					"values": [
+						{
+							"value": "external"
+						}
+					]
+				},
+				{
+					"category": "files",
+					"values": [
+						{
+							"value": "29"
+						}
+					]
+				},
+				{
+					"category": "subjects",
+					"values": [
+						{
+							"value": "48"
+						}
+					]
+				}
+			],
 			"isAbout": [
 				{
 					"identifier": {
