@@ -89,7 +89,7 @@
             			"value": "GB"
 		        },
 			"access": {
-				"landingPage": "https://celltypes.brain-map.org/",	
+				"landingPage": "https://celltypes.brain-map.org/",
 				"authorizations": [
 					{
 						"value": "public"
@@ -163,13 +163,34 @@
 					]
 				},
 				{
-					"category": "origin",
+					"category": "origin_institution",
 					"values": [
 						{
-							"institution": "The Allen Institute for Brain Science",
-							"city": "Seattle",
-							"province": "Washington",
-							"country": "USA"
+							"institution": "The Allen Institute for Brain Science"
+						}
+					]
+				},
+				{
+					"category": "origin_city",
+					"values": [
+						{
+							"institution": "Seattle"
+						}
+					]
+				},
+				{
+					"category": "origin_province",
+					"values": [
+						{
+							"institution": "Washington"
+						}
+					]
+				},
+				{
+					"category": "origin_country",
+					"values": [
+						{
+							"institution": "USA"
 						}
 					]
 				},
@@ -259,16 +280,38 @@
 					]
 				},
 				{
-					"category": "origin",
+					"category": "origin_institution",
 					"values": [
 						{
-							"institution": "The Allen Institute for Brain Science",
-							"city": "Seattle",
-							"province": "Washington",
-							"country": "USA"
+							"institution": "The Allen Institute for Brain Science"
 						}
 					]
 				},
+				{
+					"category": "origin_city",
+					"values": [
+						{
+							"institution": "Seattle"
+						}
+					]
+				},
+				{
+					"category": "origin_province",
+					"values": [
+						{
+							"institution": "Washington"
+						}
+					]
+				},
+				{
+					"category": "origin_country",
+					"values": [
+						{
+							"institution": "USA"
+						}
+					]
+				},
+
 				{
 					"category": "files",
 					"values": [
@@ -355,13 +398,34 @@
 					]
 				},
 				{
-					"category": "origin",
+					"category": "origin_institution",
 					"values": [
 						{
-							"institution": "The Allen Institute for Brain Science",
-							"city": "Seattle",
-							"province": "Washington",
-							"country": "USA"
+							"institution": "The Allen Institute for Brain Science"
+						}
+					]
+				},
+				{
+					"category": "origin_city",
+					"values": [
+						{
+							"institution": "Seattle"
+						}
+					]
+				},
+				{
+					"category": "origin_province",
+					"values": [
+						{
+							"institution": "Washington"
+						}
+					]
+				},
+				{
+					"category": "origin_country",
+					"values": [
+						{
+							"institution": "USA"
 						}
 					]
 				},
@@ -451,13 +515,34 @@
 					]
 				},
 				{
-					"category": "origin",
+					"category": "origin_institution",
 					"values": [
 						{
-							"institution": "The Allen Institute for Brain Science",
-							"city": "Seattle",
-							"province": "Washington",
-							"country": "USA"
+							"institution": "The Allen Institute for Brain Science"
+						}
+					]
+				},
+				{
+					"category": "origin_city",
+					"values": [
+						{
+							"institution": "Seattle"
+						}
+					]
+				},
+				{
+					"category": "origin_province",
+					"values": [
+						{
+							"institution": "Washington"
+						}
+					]
+				},
+				{
+					"category": "origin_country",
+					"values": [
+						{
+							"institution": "USA"
 						}
 					]
 				},
@@ -547,13 +632,34 @@
 					]
 				},
 				{
-					"category": "origin",
+					"category": "origin_institution",
 					"values": [
 						{
-							"institution": "The Allen Institute for Brain Science",
-							"city": "Seattle",
-							"province": "Washington",
-							"country": "USA"
+							"institution": "The Allen Institute for Brain Science"
+						}
+					]
+				},
+				{
+					"category": "origin_city",
+					"values": [
+						{
+							"institution": "Seattle"
+						}
+					]
+				},
+				{
+					"category": "origin_province",
+					"values": [
+						{
+							"institution": "Washington"
+						}
+					]
+				},
+				{
+					"category": "origin_country",
+					"values": [
+						{
+							"institution": "USA"
 						}
 					]
 				},
@@ -643,13 +749,34 @@
 					]
 				},
 				{
-					"category": "origin",
+					"category": "origin_institution",
 					"values": [
 						{
-							"institution": "The Allen Institute for Brain Science",
-							"city": "Seattle",
-							"province": "Washington",
-							"country": "USA"
+							"institution": "The Allen Institute for Brain Science"
+						}
+					]
+				},
+				{
+					"category": "origin_city",
+					"values": [
+						{
+							"institution": "Seattle"
+						}
+					]
+				},
+				{
+					"category": "origin_province",
+					"values": [
+						{
+							"institution": "Washington"
+						}
+					]
+				},
+				{
+					"category": "origin_country",
+					"values": [
+						{
+							"institution": "USA"
 						}
 					]
 				},
@@ -739,13 +866,34 @@
 					]
 				},
 				{
-					"category": "origin",
+					"category": "origin_institution",
 					"values": [
 						{
-							"institution": "The Allen Institute for Brain Science",
-							"city": "Seattle",
-							"province": "Washington",
-							"country": "USA"
+							"institution": "The Allen Institute for Brain Science"
+						}
+					]
+				},
+				{
+					"category": "origin_city",
+					"values": [
+						{
+							"institution": "Seattle"
+						}
+					]
+				},
+				{
+					"category": "origin_province",
+					"values": [
+						{
+							"institution": "Washington"
+						}
+					]
+				},
+				{
+					"category": "origin_country",
+					"values": [
+						{
+							"institution": "USA"
 						}
 					]
 				},
@@ -835,13 +983,34 @@
 					]
 				},
 				{
-					"category": "origin",
+					"category": "origin_institution",
 					"values": [
 						{
-							"institution": "The Allen Institute for Brain Science",
-							"city": "Seattle",
-							"province": "Washington",
-							"country": "USA"
+							"institution": "The Allen Institute for Brain Science"
+						}
+					]
+				},
+				{
+					"category": "origin_city",
+					"values": [
+						{
+							"institution": "Seattle"
+						}
+					]
+				},
+				{
+					"category": "origin_province",
+					"values": [
+						{
+							"institution": "Washington"
+						}
+					]
+				},
+				{
+					"category": "origin_country",
+					"values": [
+						{
+							"institution": "USA"
 						}
 					]
 				},
@@ -931,13 +1100,34 @@
 					]
 				},
 				{
-					"category": "origin",
+					"category": "origin_institution",
 					"values": [
 						{
-							"institution": "The Allen Institute for Brain Science",
-							"city": "Seattle",
-							"province": "Washington",
-							"country": "USA"
+							"institution": "The Allen Institute for Brain Science"
+						}
+					]
+				},
+				{
+					"category": "origin_city",
+					"values": [
+						{
+							"institution": "Seattle"
+						}
+					]
+				},
+				{
+					"category": "origin_province",
+					"values": [
+						{
+							"institution": "Washington"
+						}
+					]
+				},
+				{
+					"category": "origin_country",
+					"values": [
+						{
+							"institution": "USA"
 						}
 					]
 				},
@@ -1027,13 +1217,34 @@
 					]
 				},
 				{
-					"category": "origin",
+					"category": "origin_institution",
 					"values": [
 						{
-							"institution": "The Allen Institute for Brain Science",
-							"city": "Seattle",
-							"province": "Washington",
-							"country": "USA"
+							"institution": "The Allen Institute for Brain Science"
+						}
+					]
+				},
+				{
+					"category": "origin_city",
+					"values": [
+						{
+							"institution": "Seattle"
+						}
+					]
+				},
+				{
+					"category": "origin_province",
+					"values": [
+						{
+							"institution": "Washington"
+						}
+					]
+				},
+				{
+					"category": "origin_country",
+					"values": [
+						{
+							"institution": "USA"
 						}
 					]
 				},
@@ -1123,13 +1334,34 @@
 					]
 				},
 				{
-					"category": "origin",
+					"category": "origin_institution",
 					"values": [
 						{
-							"institution": "The Allen Institute for Brain Science",
-							"city": "Seattle",
-							"province": "Washington",
-							"country": "USA"
+							"institution": "The Allen Institute for Brain Science"
+						}
+					]
+				},
+				{
+					"category": "origin_city",
+					"values": [
+						{
+							"institution": "Seattle"
+						}
+					]
+				},
+				{
+					"category": "origin_province",
+					"values": [
+						{
+							"institution": "Washington"
+						}
+					]
+				},
+				{
+					"category": "origin_country",
+					"values": [
+						{
+							"institution": "USA"
 						}
 					]
 				},
@@ -1219,13 +1451,34 @@
 					]
 				},
 				{
-					"category": "origin",
+					"category": "origin_institution",
 					"values": [
 						{
-							"institution": "The Allen Institute for Brain Science",
-							"city": "Seattle",
-							"province": "Washington",
-							"country": "USA"
+							"institution": "The Allen Institute for Brain Science"
+						}
+					]
+				},
+				{
+					"category": "origin_city",
+					"values": [
+						{
+							"institution": "Seattle"
+						}
+					]
+				},
+				{
+					"category": "origin_province",
+					"values": [
+						{
+							"institution": "Washington"
+						}
+					]
+				},
+				{
+					"category": "origin_country",
+					"values": [
+						{
+							"institution": "USA"
 						}
 					]
 				},
@@ -1315,13 +1568,34 @@
 					]
 				},
 				{
-					"category": "origin",
+					"category": "origin_institution",
 					"values": [
 						{
-							"institution": "The Allen Institute for Brain Science",
-							"city": "Seattle",
-							"province": "Washington",
-							"country": "USA"
+							"institution": "The Allen Institute for Brain Science"
+						}
+					]
+				},
+				{
+					"category": "origin_city",
+					"values": [
+						{
+							"institution": "Seattle"
+						}
+					]
+				},
+				{
+					"category": "origin_province",
+					"values": [
+						{
+							"institution": "Washington"
+						}
+					]
+				},
+				{
+					"category": "origin_country",
+					"values": [
+						{
+							"institution": "USA"
 						}
 					]
 				},
@@ -1411,13 +1685,34 @@
 					]
 				},
 				{
-					"category": "origin",
+					"category": "origin_institution",
 					"values": [
 						{
-							"institution": "The Allen Institute for Brain Science",
-							"city": "Seattle",
-							"province": "Washington",
-							"country": "USA"
+							"institution": "The Allen Institute for Brain Science"
+						}
+					]
+				},
+				{
+					"category": "origin_city",
+					"values": [
+						{
+							"institution": "Seattle"
+						}
+					]
+				},
+				{
+					"category": "origin_province",
+					"values": [
+						{
+							"institution": "Washington"
+						}
+					]
+				},
+				{
+					"category": "origin_country",
+					"values": [
+						{
+							"institution": "USA"
 						}
 					]
 				},
@@ -1507,13 +1802,34 @@
 					]
 				},
 				{
-					"category": "origin",
+					"category": "origin_institution",
 					"values": [
 						{
-							"institution": "The Allen Institute for Brain Science",
-							"city": "Seattle",
-							"province": "Washington",
-							"country": "USA"
+							"institution": "The Allen Institute for Brain Science"
+						}
+					]
+				},
+				{
+					"category": "origin_city",
+					"values": [
+						{
+							"institution": "Seattle"
+						}
+					]
+				},
+				{
+					"category": "origin_province",
+					"values": [
+						{
+							"institution": "Washington"
+						}
+					]
+				},
+				{
+					"category": "origin_country",
+					"values": [
+						{
+							"institution": "USA"
 						}
 					]
 				},
@@ -1603,13 +1919,34 @@
 					]
 				},
 				{
-					"category": "origin",
+					"category": "origin_institution",
 					"values": [
 						{
-							"institution": "The Allen Institute for Brain Science",
-							"city": "Seattle",
-							"province": "Washington",
-							"country": "USA"
+							"institution": "The Allen Institute for Brain Science"
+						}
+					]
+				},
+				{
+					"category": "origin_city",
+					"values": [
+						{
+							"institution": "Seattle"
+						}
+					]
+				},
+				{
+					"category": "origin_province",
+					"values": [
+						{
+							"institution": "Washington"
+						}
+					]
+				},
+				{
+					"category": "origin_country",
+					"values": [
+						{
+							"institution": "USA"
 						}
 					]
 				},
@@ -1699,13 +2036,34 @@
 					]
 				},
 				{
-					"category": "origin",
+					"category": "origin_institution",
 					"values": [
 						{
-							"institution": "The Allen Institute for Brain Science",
-							"city": "Seattle",
-							"province": "Washington",
-							"country": "USA"
+							"institution": "The Allen Institute for Brain Science"
+						}
+					]
+				},
+				{
+					"category": "origin_city",
+					"values": [
+						{
+							"institution": "Seattle"
+						}
+					]
+				},
+				{
+					"category": "origin_province",
+					"values": [
+						{
+							"institution": "Washington"
+						}
+					]
+				},
+				{
+					"category": "origin_country",
+					"values": [
+						{
+							"institution": "USA"
 						}
 					]
 				},
@@ -1796,13 +2154,34 @@
 					]
 				},
 				{
-					"category": "origin",
+					"category": "origin_institution",
 					"values": [
 						{
-							"institution": "The Allen Institute for Brain Science",
-							"city": "Seattle",
-							"province": "Washington",
-							"country": "USA"
+							"institution": "The Allen Institute for Brain Science"
+						}
+					]
+				},
+				{
+					"category": "origin_city",
+					"values": [
+						{
+							"institution": "Seattle"
+						}
+					]
+				},
+				{
+					"category": "origin_province",
+					"values": [
+						{
+							"institution": "Washington"
+						}
+					]
+				},
+				{
+					"category": "origin_country",
+					"values": [
+						{
+							"institution": "USA"
 						}
 					]
 				},
@@ -1893,13 +2272,34 @@
 					]
 				},
 				{
-					"category": "origin",
+					"category": "origin_institution",
 					"values": [
 						{
-							"institution": "The Allen Institute for Brain Science",
-							"city": "Seattle",
-							"province": "Washington",
-							"country": "USA"
+							"institution": "The Allen Institute for Brain Science"
+						}
+					]
+				},
+				{
+					"category": "origin_city",
+					"values": [
+						{
+							"institution": "Seattle"
+						}
+					]
+				},
+				{
+					"category": "origin_province",
+					"values": [
+						{
+							"institution": "Washington"
+						}
+					]
+				},
+				{
+					"category": "origin_country",
+					"values": [
+						{
+							"institution": "USA"
 						}
 					]
 				},
@@ -1989,13 +2389,34 @@
 					]
 				},
 				{
-					"category": "origin",
+					"category": "origin_institution",
 					"values": [
 						{
-							"institution": "The Allen Institute for Brain Science",
-							"city": "Seattle",
-							"province": "Washington",
-							"country": "USA"
+							"institution": "The Allen Institute for Brain Science"
+						}
+					]
+				},
+				{
+					"category": "origin_city",
+					"values": [
+						{
+							"institution": "Seattle"
+						}
+					]
+				},
+				{
+					"category": "origin_province",
+					"values": [
+						{
+							"institution": "Washington"
+						}
+					]
+				},
+				{
+					"category": "origin_country",
+					"values": [
+						{
+							"institution": "USA"
 						}
 					]
 				},
@@ -2085,13 +2506,34 @@
 					]
 				},
 				{
-					"category": "origin",
+					"category": "origin_institution",
 					"values": [
 						{
-							"institution": "The Allen Institute for Brain Science",
-							"city": "Seattle",
-							"province": "Washington",
-							"country": "USA"
+							"institution": "The Allen Institute for Brain Science"
+						}
+					]
+				},
+				{
+					"category": "origin_city",
+					"values": [
+						{
+							"institution": "Seattle"
+						}
+					]
+				},
+				{
+					"category": "origin_province",
+					"values": [
+						{
+							"institution": "Washington"
+						}
+					]
+				},
+				{
+					"category": "origin_country",
+					"values": [
+						{
+							"institution": "USA"
 						}
 					]
 				},
@@ -2181,13 +2623,34 @@
 					]
 				},
 				{
-					"category": "origin",
+					"category": "origin_institution",
 					"values": [
 						{
-							"institution": "The Allen Institute for Brain Science",
-							"city": "Seattle",
-							"province": "Washington",
-							"country": "USA"
+							"institution": "The Allen Institute for Brain Science"
+						}
+					]
+				},
+				{
+					"category": "origin_city",
+					"values": [
+						{
+							"institution": "Seattle"
+						}
+					]
+				},
+				{
+					"category": "origin_province",
+					"values": [
+						{
+							"institution": "Washington"
+						}
+					]
+				},
+				{
+					"category": "origin_country",
+					"values": [
+						{
+							"institution": "USA"
 						}
 					]
 				},
@@ -2277,13 +2740,34 @@
 					]
 				},
 				{
-					"category": "origin",
+					"category": "origin_institution",
 					"values": [
 						{
-							"institution": "The Allen Institute for Brain Science",
-							"city": "Seattle",
-							"province": "Washington",
-							"country": "USA"
+							"institution": "The Allen Institute for Brain Science"
+						}
+					]
+				},
+				{
+					"category": "origin_city",
+					"values": [
+						{
+							"institution": "Seattle"
+						}
+					]
+				},
+				{
+					"category": "origin_province",
+					"values": [
+						{
+							"institution": "Washington"
+						}
+					]
+				},
+				{
+					"category": "origin_country",
+					"values": [
+						{
+							"institution": "USA"
 						}
 					]
 				},
@@ -2373,17 +2857,6 @@
 					]
 				},
 				{
-					"category": "origin",
-					"values": [
-						{
-							"institution": "The Allen Institute for Brain Science",
-							"city": "Seattle",
-							"province": "Washington",
-							"country": "USA"
-						}
-					]
-				},
-				{
 					"category": "files",
 					"values": [
 						{
@@ -2469,13 +2942,34 @@
 					]
 				},
 				{
-					"category": "origin",
+					"category": "origin_institution",
 					"values": [
 						{
-							"institution": "The Allen Institute for Brain Science",
-							"city": "Seattle",
-							"province": "Washington",
-							"country": "USA"
+							"institution": "The Allen Institute for Brain Science"
+						}
+					]
+				},
+				{
+					"category": "origin_city",
+					"values": [
+						{
+							"institution": "Seattle"
+						}
+					]
+				},
+				{
+					"category": "origin_province",
+					"values": [
+						{
+							"institution": "Washington"
+						}
+					]
+				},
+				{
+					"category": "origin_country",
+					"values": [
+						{
+							"institution": "USA"
 						}
 					]
 				},
@@ -2525,13 +3019,34 @@
 			]
 		},
 		{
-			"category": "origin",
+			"category": "origin_institution",
 			"values": [
 				{
-					"institution": "The Allen Institute for Brain Science",
-					"city": "Seattle",
-					"province": "Washington",
-					"country": "USA"
+					"institution": "The Allen Institute for Brain Science"
+				}
+			]
+		},
+		{
+			"category": "origin_city",
+			"values": [
+				{
+					"institution": "Seattle"
+				}
+			]
+		},
+		{
+			"category": "origin_province",
+			"values": [
+				{
+					"institution": "Washington"
+				}
+			]
+		},
+		{
+			"category": "origin_country",
+			"values": [
+				{
+					"institution": "USA"
 				}
 			]
 		},
