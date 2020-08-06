@@ -1595,7 +1595,7 @@
 					"category": "origin_country",
 					"values": [
 						{
-							"institution": "USA"
+							"value": "USA"
 						}
 					]
 				},
