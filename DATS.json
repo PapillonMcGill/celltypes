@@ -2117,7 +2117,7 @@
 	    	    {
 					"formats": [
 						"RNA-Seq",
-						".csv"
+						"CSV"
             		],
 					"size" : 200,
 		        	"unit" : {
@@ -2352,7 +2352,7 @@
 			"distributions": [
 	    	    {
 					"formats": [
-						".csv"
+						"CSV"
             		],
 					"size" : 2.32,
 		        	"unit" : {
