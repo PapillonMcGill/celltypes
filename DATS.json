@@ -18,6 +18,10 @@
 	"types": [
 		{
 			"information": {
+                "identifier": {
+                    "identifier": "ilx_0739406",
+                    "identifierSource":"http://uri.interlex.org/ilx_0739406"
+                },
 				"value": "transcriptomics"
 			}
 		}
@@ -146,7 +150,7 @@
 			"description": "Human cortex : middle temporal gyrus",
 			"licenses": [
 				{
-					"name": "BY-NC-SA"
+					"name": "CC BY-NC-SA"
 				}
 			],
 			"storedIn": {
@@ -263,7 +267,7 @@
 			"description": "Human cortex : primary visual cortex",
 			"licenses": [
 				{
-					"name": "BY-NC-SA"
+					"name": "CC BY-NC-SA"
 				}
 			],
 			"storedIn": {
@@ -381,7 +385,7 @@
 			"description": "Human cortex : anterior cingulate cortex",
 			"licenses": [
 				{
-					"name": "BY-NC-SA"
+					"name": "CC BY-NC-SA"
 				}
 			],
 			"storedIn": {
@@ -498,7 +502,7 @@
 			"description": "Mouse cortex : primary visual cortex",
 			"licenses": [
 				{
-					"name": "BY-NC-SA"
+					"name": "CC BY-NC-SA"
 				}
 			],
 			"storedIn": {
@@ -615,7 +619,7 @@
 			"description": "Mouse cortex : anterior lateral motor area",
 			"licenses": [
 				{
-					"name": "BY-NC-SA"
+					"name": "CC BY-NC-SA"
 				}
 			],
 			"storedIn": {
@@ -732,7 +736,7 @@
 			"description": "Mouse cortex : anterior cingulate area",
 			"licenses": [
 				{
-					"name": "BY-NC-SA"
+					"name": "CC BY-NC-SA"
 				}
 			],
 			"storedIn": {
@@ -849,7 +853,7 @@
 			"description": "Mouse cortex : primary motor area (cell data)",
 			"licenses": [
 				{
-					"name": "BY-NC-SA"
+					"name": "CC BY-NC-SA"
 				}
 			],
 			"storedIn": {
@@ -966,7 +970,7 @@
 			"description": "Mouse cortex : primary motor area (nuclear data)",
 			"licenses": [
 				{
-					"name": "BY-NC-SA"
+					"name": "CC BY-NC-SA"
 				}
 			],
 			"storedIn": {
@@ -1083,7 +1087,7 @@
 			"description": "Human thalamus : lateral geniculate nucleus",
 			"licenses": [
 				{
-					"name": "BY-NC-SA"
+					"name": "CC BY-NC-SA"
 				}
 			],
 			"storedIn": {
@@ -1200,7 +1204,7 @@
 			"description": "Mouse thalamus, dorsolateral geniculate complex",
 			"licenses": [
 				{
-					"name": "BY-NC-SA"
+					"name": "CC BY-NC-SA"
 				}
 			],
 			"storedIn": {
@@ -1317,7 +1321,7 @@
 			"description": "Macaque thalamus : lateral geniculate nucleus",
 			"licenses": [
 				{
-					"name": "BY-NC-SA"
+					"name": "CC BY-NC-SA"
 				}
 			],
 			"storedIn": {
@@ -1434,7 +1438,7 @@
 			"description": "Human middle temporal gyrus control set",
 			"licenses": [
 				{
-					"name": "BY-NC-SA"
+					"name": "CC BY-NC-SA"
 				}
 			],
 			"storedIn": {
@@ -1551,7 +1555,7 @@
 			"description": "Human primary visual cortex, anterior cingulate cortex control set",
 			"licenses": [
 				{
-					"name": "BY-NC-SA"
+					"name": "CC BY-NC-SA"
 				}
 			],
 			"storedIn": {
@@ -1668,7 +1672,7 @@
 			"description": "Mouse primary visual cortex, anterior lateral motor area control set",
 			"licenses": [
 				{
-					"name": "BY-NC-SA"
+					"name": "CC BY-NC-SA"
 				}
 			],
 			"storedIn": {
@@ -1785,7 +1789,7 @@
 			"description": "Mouse anterior cingulate area, primary motor area (cells and nuclei) control set",
 			"licenses": [
 				{
-					"name": "BY-NC-SA"
+					"name": "CC BY-NC-SA"
 				}
 			],
 			"storedIn": {
@@ -1902,7 +1906,7 @@
 			"description": "Human cortex : middle temproal gyrus (previously published 2017 data)",
 			"licenses": [
 				{
-					"name": "BY-NC-SA"
+					"name": "CC BY-NC-SA"
 				}
 			],
 			"storedIn": {
@@ -2019,7 +2023,7 @@
 			"description": "Human cortex : primary visual cortex (previously published 2017 data)",
 			"licenses": [
 				{
-					"name": "BY-NC-SA"
+					"name": "CC BY-NC-SA"
 				}
 			],
 			"storedIn": {
@@ -2137,7 +2141,7 @@
 			"description": "Mouse cortex : primary visual cortex (previously published 2017 data)",
 			"licenses": [
 				{
-					"name": "BY-NC-SA"
+					"name": "CC BY-NC-SA"
 				}
 			],
 			"storedIn": {
@@ -2255,7 +2259,7 @@
 			"description": "Mouse cortex : anterior lateral motor area (previously published 2017 data)",
 			"licenses": [
 				{
-					"name": "BY-NC-SA"
+					"name": "CC BY-NC-SA"
 				}
 			],
 			"storedIn": {
@@ -2372,7 +2376,7 @@
 			"description": "Mouse cortex : anterior lateral motor area (previously published 2017 data)",
 			"licenses": [
 				{
-					"name": "BY-NC-SA"
+					"name": "CC BY-NC-SA"
 				}
 			],
 			"storedIn": {
@@ -2489,7 +2493,7 @@
 			"description": "Mouse thalamus, dorsolateral geniculate complex (previously published 2017 data)",
 			"licenses": [
 				{
-					"name": "BY-NC-SA"
+					"name": "CC BY-NC-SA"
 				}
 			],
 			"storedIn": {
@@ -2606,7 +2610,7 @@
 			"description": "Human genome annotations reference",
 			"licenses": [
 				{
-					"name": "BY-NC-SA"
+					"name": "CC BY-NC-SA"
 				}
 			],
 			"storedIn": {
@@ -2723,7 +2727,7 @@
 			"description": "Mouse genome annotations reference",
 			"licenses": [
 				{
-					"name": "BY-NC-SA"
+					"name": "CC BY-NC-SA"
 				}
 			],
 			"storedIn": {
@@ -2840,7 +2844,7 @@
 			"description": "Macaque genome annotations reference",
 			"licenses": [
 				{
-					"name": "BY-NC-SA"
+					"name": "CC BY-NC-SA"
 				}
 			],
 			"storedIn": {
@@ -2957,7 +2961,7 @@
 			"description": "Cell type and transcriptomics overview",
 			"licenses": [
 				{
-					"name": "BY-NC-SA"
+					"name": "CC BY-NC-SA"
 				}
 			],
 			"storedIn": {
