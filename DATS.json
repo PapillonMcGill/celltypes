@@ -17,13 +17,9 @@
 	],
 	"types": [
 		{
-			"information": {
-                "identifier": {
-                    "identifier": "ilx_0739406",
-                    "identifierSource":"http://uri.interlex.org/ilx_0739406"
-                },
-				"value": "transcriptomics"
-			}
+            "identifier": "ilx_0739406",
+            "identifierSource":"http://uri.interlex.org/ilx_0739406",
+			"value": "transcriptomics"
 		}
 	],
 	"title": "Allen Brain Atlas: Cell Types",
@@ -104,13 +100,8 @@
 	],
 	"keywords": [
 		{
-			"information": {
-                "identifier": {
-                    "identifier": "ilx_0739406",
-                    "identifierSource":"http://uri.interlex.org/ilx_0739406"
-                },
-				"value": "transcriptomics"
-			}
+            "valueIRI":"http://uri.interlex.org/ilx_0739406",
+			"value": "transcriptomics"
 		}
 	],
 	"hasPart": [
@@ -130,13 +121,8 @@
 			],
 			"keywords": [
 				{
-					"information": {
-        	    	    "identifier": {
-            	    	    "identifier": "ilx_0739406",
-                    		"identifierSource":"http://uri.interlex.org/ilx_0739406"
-                		},
-						"value": "transcriptomics"
-					}
+                   	"valueIRI":"http://uri.interlex.org/ilx_0739406",
+					"value": "transcriptomics"
 				}
 			],
 			"distributions": [
@@ -253,13 +239,8 @@
 			],
 			"keywords": [
 				{
-					"information": {
-        	    	    "identifier": {
-            	    	    "identifier": "ilx_0739406",
-                    		"identifierSource":"http://uri.interlex.org/ilx_0739406"
-                		},
-						"value": "transcriptomics"
-					}
+                    "valueIRI":"http://uri.interlex.org/ilx_0739406",
+					"value": "transcriptomics"
 				}
 			],
 			"distributions": [
@@ -377,13 +358,8 @@
 			],
 			"keywords": [
 				{
-					"information": {
-        	    	    "identifier": {
-            	    	    "identifier": "ilx_0739406",
-                    		"identifierSource":"http://uri.interlex.org/ilx_0739406"
-                		},
-						"value": "transcriptomics"
-					}
+                    "valueIRI":"http://uri.interlex.org/ilx_0739406",
+				    "value": "transcriptomics"
 				}
 			],
 			"distributions": [
@@ -500,13 +476,8 @@
 			],
 			"keywords": [
 				{
-					"information": {
-        	    	    "identifier": {
-            	    	    "identifier": "ilx_0739406",
-                    		"identifierSource":"http://uri.interlex.org/ilx_0739406"
-                		},
-						"value": "transcriptomics"
-					}
+                    "valueIRI":"http://uri.interlex.org/ilx_0739406",
+					"value": "transcriptomics"
 				}
 			],
 			"distributions": [
@@ -620,15 +591,11 @@
 						"value": "RNA-Seq read data"
 					}
 				}
-			],
+            ],
+            "keywords": [
 				{
-					"information": {
-        	    	    "identifier": {
-            	    	    "identifier": "ilx_0739406",
-                    		"identifierSource":"http://uri.interlex.org/ilx_0739406"
-                		},
-						"value": "transcriptomics"
-					}
+            		"valueIRI":"http://uri.interlex.org/ilx_0739406",
+					"value": "transcriptomics"
 				}
 			],
 			"distributions": [
@@ -745,13 +712,8 @@
 			],
 			"keywords": [
 				{
-					"information": {
-        	    	    "identifier": {
-            	    	    "identifier": "ilx_0739406",
-                    		"identifierSource":"http://uri.interlex.org/ilx_0739406"
-                		},
-						"value": "transcriptomics"
-					}
+                    "valueIRI":"http://uri.interlex.org/ilx_0739406",
+					"value": "transcriptomics"
 				}
 			],
 			"distributions": [
@@ -868,13 +830,8 @@
 			],
 			"keywords": [
 				{
-					"information": {
-        	    	    "identifier": {
-            	    	    "identifier": "ilx_0739406",
-                    		"identifierSource":"http://uri.interlex.org/ilx_0739406"
-                		},
-						"value": "transcriptomics"
-					}
+                    "valueIRI":"http://uri.interlex.org/ilx_0739406",
+					"value": "transcriptomics"
 				}
 			],
 			"distributions": [
@@ -991,13 +948,8 @@
 			],
 			"keywords": [
 				{
-					"information": {
-        	    	    "identifier": {
-            	    	    "identifier": "ilx_0739406",
-                    		"identifierSource":"http://uri.interlex.org/ilx_0739406"
-                		},
-						"value": "transcriptomics"
-					}
+                    "valueIRI":"http://uri.interlex.org/ilx_0739406",
+					"value": "transcriptomics"
 				}
 			],
 			"distributions": [
@@ -1114,13 +1066,8 @@
 			],
 			"keywords": [
 				{
-					"information": {
-        	    	    "identifier": {
-            	    	    "identifier": "ilx_0739406",
-                    		"identifierSource":"http://uri.interlex.org/ilx_0739406"
-                		},
-						"value": "transcriptomics"
-					}
+                    "valueIRI":"http://uri.interlex.org/ilx_0739406",
+					"value": "transcriptomics"
 				}
 			],
 			"distributions": [
@@ -1237,13 +1184,8 @@
 			],
 			"keywords": [
 				{
-					"information": {
-        	    	    "identifier": {
-            	    	    "identifier": "ilx_0739406",
-                    		"identifierSource":"http://uri.interlex.org/ilx_0739406"
-                		},
-						"value": "transcriptomics"
-					}
+                    "valueIRI":"http://uri.interlex.org/ilx_0739406",
+					"value": "transcriptomics"
 				}
 			],
 			"distributions": [
@@ -1360,13 +1302,8 @@
 			],
 			"keywords": [
 				{
-					"information": {
-        	    	    "identifier": {
-            	    	    "identifier": "ilx_0739406",
-                    		"identifierSource":"http://uri.interlex.org/ilx_0739406"
-                		},
-						"value": "transcriptomics"
-					}
+                    "valueIRI":"http://uri.interlex.org/ilx_0739406",
+					"value": "transcriptomics"
 				}
 			],
 			"distributions": [
@@ -1483,13 +1420,8 @@
 			],
 			"keywords": [
 				{
-					"information": {
-        	    	    "identifier": {
-            	    	    "identifier": "ilx_0739406",
-                    		"identifierSource":"http://uri.interlex.org/ilx_0739406"
-                		},
-						"value": "transcriptomics"
-					}
+                    "valueIRI":"http://uri.interlex.org/ilx_0739406",
+					"value": "transcriptomics"
 				}
 			],
 			"distributions": [
@@ -1606,13 +1538,8 @@
 			],
 			"keywords": [
 				{
-					"information": {
-        	    	    "identifier": {
-            	    	    "identifier": "ilx_0739406",
-                    		"identifierSource":"http://uri.interlex.org/ilx_0739406"
-                		},
-						"value": "transcriptomics"
-					}
+                    "valueIRI":"http://uri.interlex.org/ilx_0739406",
+					"value": "transcriptomics"
 				}
 			],
 			"distributions": [
@@ -1729,13 +1656,8 @@
 			],
 			"keywords": [
 				{
-					"information": {
-        	    	    "identifier": {
-            	    	    "identifier": "ilx_0739406",
-                    		"identifierSource":"http://uri.interlex.org/ilx_0739406"
-                		},
-						"value": "transcriptomics"
-					}
+                	"valueIRI":"http://uri.interlex.org/ilx_0739406",
+					"value": "transcriptomics"
 				}
 			],
 			"distributions": [
@@ -1852,13 +1774,8 @@
 			],
 			"keywords": [
 				{
-					"information": {
-        	    	    "identifier": {
-            	    	    "identifier": "ilx_0739406",
-                    		"identifierSource":"http://uri.interlex.org/ilx_0739406"
-                		},
-						"value": "transcriptomics"
-					}
+                    "valueIRI":"http://uri.interlex.org/ilx_0739406",
+					"value": "transcriptomics"
 				}
 			],
 			"distributions": [
@@ -1975,13 +1892,8 @@
 			],
 			"keywords": [
 				{
-					"information": {
-        	    	    "identifier": {
-            	    	    "identifier": "ilx_0739406",
-                    		"identifierSource":"http://uri.interlex.org/ilx_0739406"
-                		},
-						"value": "transcriptomics"
-					}
+                    "valueIRI":"http://uri.interlex.org/ilx_0739406",
+					"value": "transcriptomics"
 				}
 			],
 			"distributions": [
@@ -2098,13 +2010,8 @@
 			],
 			"keywords": [
 				{
-					"information": {
-        	    	    "identifier": {
-            	    	    "identifier": "ilx_0739406",
-                    		"identifierSource":"http://uri.interlex.org/ilx_0739406"
-                		},
-						"value": "transcriptomics"
-					}
+                    "valueIRI":"http://uri.interlex.org/ilx_0739406",
+					"value": "transcriptomics"
 				}
 			],
 			"distributions": [
@@ -2221,13 +2128,8 @@
 			],
 			"keywords": [
 				{
-					"information": {
-        	    	    "identifier": {
-            	    	    "identifier": "ilx_0739406",
-                    		"identifierSource":"http://uri.interlex.org/ilx_0739406"
-                		},
-						"value": "transcriptomics"
-					}
+                    "valueIRI":"http://uri.interlex.org/ilx_0739406",
+					"value": "transcriptomics"
 				}
 			],
 			"distributions": [
@@ -2346,13 +2248,8 @@
 			],
 			"keywords": [
 				{
-					"information": {
-        	    	    "identifier": {
-            	    	    "identifier": "ilx_0739406",
-                    		"identifierSource":"http://uri.interlex.org/ilx_0739406"
-                		},
-						"value": "transcriptomics"
-					}
+                    "valueIRI":"http://uri.interlex.org/ilx_0739406",
+					"value": "transcriptomics"
 				}
 			],
 			"distributions": [
@@ -2469,13 +2366,8 @@
 			],
 			"keywords": [
 				{
-					"information": {
-        	    	    "identifier": {
-            	    	    "identifier": "ilx_0739406",
-                    		"identifierSource":"http://uri.interlex.org/ilx_0739406"
-                		},
-						"value": "transcriptomics"
-					}
+                    "valueIRI":"http://uri.interlex.org/ilx_0739406",
+					"value": "transcriptomics"
 				}
 			],
 			"distributions": [
@@ -2592,13 +2484,8 @@
 			],
 			"keywords": [
 				{
-					"information": {
-        	    	    "identifier": {
-            	    	    "identifier": "ilx_0739406",
-                    		"identifierSource":"http://uri.interlex.org/ilx_0739406"
-                		},
-						"value": "transcriptomics"
-					}
+                    "valueIRI":"http://uri.interlex.org/ilx_0739406",
+					"value": "transcriptomics"
 				}
 			],
 			"distributions": [
@@ -2715,13 +2602,8 @@
 			],
 			"keywords": [
 				{
-					"information": {
-        	    	    "identifier": {
-            	    	    "identifier": "ilx_0739406",
-                    		"identifierSource":"http://uri.interlex.org/ilx_0739406"
-                		},
-						"value": "transcriptomics"
-					}
+                    "valueIRI":"http://uri.interlex.org/ilx_0739406",
+					"value": "transcriptomics"
 				}
 			],
 			"distributions": [
@@ -2838,13 +2720,8 @@
 			],
 			"keywords": [
 				{
-					"information": {
-        	    	    "identifier": {
-            	    	    "identifier": "ilx_0739406",
-                    		"identifierSource":"http://uri.interlex.org/ilx_0739406"
-                		},
-						"value": "transcriptomics"
-					}
+                    "valueIRI":"http://uri.interlex.org/ilx_0739406",
+					"value": "transcriptomics"
 				}
 			],
 			"distributions": [
@@ -2961,13 +2838,8 @@
 			],
 			"keywords": [
 				{
-					"information": {
-        	    	    "identifier": {
-            	    	    "identifier": "ilx_0739406",
-                    		"identifierSource":"http://uri.interlex.org/ilx_0739406"
-                		},
-						"value": "transcriptomics"
-					}
+                    "valueIRI":"http://uri.interlex.org/ilx_0739406",
+					"value": "transcriptomics"
 				}
 			],
 			"distributions": [
@@ -3084,13 +2956,8 @@
 			],
 			"keywords": [
 				{
-					"information": {
-        	    	    "identifier": {
-            	    	    "identifier": "ilx_0739406",
-                    		"identifierSource":"http://uri.interlex.org/ilx_0739406"
-                		},
-						"value": "transcriptomics"
-					}
+                    "valueIRI":"http://uri.interlex.org/ilx_0739406",
+					"value": "transcriptomics"
 				}
 			],
 			"distributions": [
