@@ -621,7 +621,7 @@
 			"description": "Mouse cortex : anterior lateral motor area",
 			"licenses": [
 				{
-					"name": "CC BY-NC-SA"
+		    		"name": "CC BY-NC-SA"
 				}
 			],
 			"storedIn": {
