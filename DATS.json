@@ -17,8 +17,10 @@
 	],
 	"types": [
 		{
-            "identifier": "ilx_0739406",
-            "identifierSource":"http://uri.interlex.org/ilx_0739406",
+            "identifier": {
+                "identifier": "ilx_0739406",
+                "identifierSource":"http://uri.interlex.org/ilx_0739406"
+            },
 			"value": "transcriptomics"
 		}
 	],
